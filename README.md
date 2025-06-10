@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-0901&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-0901" /> </p>
 
-- 🌱 I’m currently learning **Next.js 15**
+- 🌱 I am currently learning how to integrate **AI tools** into projects to effectively leverage the power of **artificial intelligence**.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-harshal-presswala.vercel.app/](https://portfolio-harshal-presswala.vercel.app/)
 
